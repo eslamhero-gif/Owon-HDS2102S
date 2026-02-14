@@ -1,0 +1,12 @@
+PyQt6
+matplotlib
+numpy
+pyserial
+pyvisa
+pyvisa-py
+qdarkstyle
+pandas
+scipy
+pyusb
+pyqtgraph
+pyttsx3

@@ -1,5 +1,3 @@
-# Owon HDS2102S
-Owon HDS2102S
 OWON HDS200 Advanced Control Suite Comprehensive Project Description
 
 1.  Project Overview
